@@ -1,0 +1,9 @@
+.search-result {
+    border: 1px solid #c8e8fa;
+    background-color: #e8f5fc;
+    margin-left: 12vw;
+    margin-right: 25vw;
+    text-align: start;
+    padding-left: 5px;
+    cursor: pointer;
+}

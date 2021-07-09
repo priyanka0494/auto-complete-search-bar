@@ -1,0 +1,28 @@
+.pill-container {
+    padding: 5px;
+    margin-right: 5px;
+    display: flex;
+    border: 2px solid rgba(87, 168, 248, 0.2);
+    border-radius: 30px;
+    justify-content: space-between;
+    align-items: center;
+    height: 23px;
+    background-color: rgba(87, 168, 248, 0.4);
+}
+
+.pill-text {
+    font-size: 15px;
+    width: 100px;
+    text-align: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.pill-btn {
+    background-color: #fff;
+    outline: none;
+    border:none;
+    cursor: pointer;
+    background-color: rgba(87, 168, 248, 0);
+}
