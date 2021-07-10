@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/auto-complete-search-bar/static/css/main.3a609b24.chunk.css",
+    "main.js": "/auto-complete-search-bar/static/js/main.0922b985.chunk.js",
+    "main.js.map": "/auto-complete-search-bar/static/js/main.0922b985.chunk.js.map",
+    "runtime-main.js": "/auto-complete-search-bar/static/js/runtime-main.00eb3b84.js",
+    "runtime-main.js.map": "/auto-complete-search-bar/static/js/runtime-main.00eb3b84.js.map",
+    "static/js/2.30d00f5d.chunk.js": "/auto-complete-search-bar/static/js/2.30d00f5d.chunk.js",
+    "static/js/2.30d00f5d.chunk.js.map": "/auto-complete-search-bar/static/js/2.30d00f5d.chunk.js.map",
+    "static/js/3.7d2b5a50.chunk.js": "/auto-complete-search-bar/static/js/3.7d2b5a50.chunk.js",
+    "static/js/3.7d2b5a50.chunk.js.map": "/auto-complete-search-bar/static/js/3.7d2b5a50.chunk.js.map",
+    "index.html": "/auto-complete-search-bar/index.html",
+    "static/css/main.3a609b24.chunk.css.map": "/auto-complete-search-bar/static/css/main.3a609b24.chunk.css.map",
+    "static/js/2.30d00f5d.chunk.js.LICENSE.txt": "/auto-complete-search-bar/static/js/2.30d00f5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00eb3b84.js",
+    "static/js/2.30d00f5d.chunk.js",
+    "static/css/main.3a609b24.chunk.css",
+    "static/js/main.0922b985.chunk.js"
+  ]
+}
